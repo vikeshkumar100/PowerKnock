@@ -1,3 +1,5 @@
+![hardware pic](https://github.com/user-attachments/assets/6a6e0a97-4f72-4d6a-8736-983426b56470)
+
 # PowerKnock
 iot system for students to securely lock and unlock their room using rfid and knock pattern
 
